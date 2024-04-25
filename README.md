@@ -1,14 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+### 🚀 About Me
+I'm a seasoned e-commerce professional with over a decade of experience spanning multiple roles—from software development to project management, and from leading development teams at prominent e-commerce platforms to my current role as a Product Manager at [Makaira <img src="https://www.makaira.io/assets/favicon/apple-touch-icon.png" width="30" height="28" alt="Makaira Logo" style="float: right;">](https://makaira.io).
 
-for over 10 years I'm working in eCommerce business with serveral positions started as developer, over project manager, leading the development department of a well known eCommerce platform and now working for [Makaira](https://makaira.io) as product manager.
+I excel at pragmatically driving projects to completion and leveraging cutting-edge technology to advance business goals. I thrive on managing the intersection between development and business, ensuring smooth translation of technical capabilities into strategic advantages.
 
-I'm always interested in getting things done in a pragmatic way and to push forward with using great technologie. I personally like to mangage the bridge between the development and the business.
+### 🌐 Connect with Me
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminjoergermx/)
-<hr/>
-
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/BenjaminJoerger/my-stack)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminjoerger24/)
 
 
 
